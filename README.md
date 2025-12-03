@@ -1,5 +1,9 @@
 # MEGANX NEXUS CORE
 
+![CI](https://github.com/Zeluix/MEGANX-NEXUS-CORE/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Zeluix/MEGANX-NEXUS-CORE)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+
 **Autonomous Agentic Framework | Model Context Protocol (MCP) Implementation**
 
 ## 🧠 Overview
@@ -26,6 +30,15 @@ MEGANX-NEXUS-CORE/
 ## 🏗️ Architecture
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for a deep dive into the system design.
+
+```mermaid
+graph TD
+    LLM[Claude / LLM] <-->|MCP Protocol| Server[MCP Server]
+    Server <-->|Control| Browser[Playwright]
+    Browser <-->|HTTP/JS| Web[Internet]
+    Server <-->|Read/Write| DB[(ChromaDB)]
+    DB <-->|Embeddings| Disk[Local Storage]
+```
 
 The system is built on a modular architecture:
 - **`src/meganx_mcp_server.py`**: The core MCP server that exposes tools.
