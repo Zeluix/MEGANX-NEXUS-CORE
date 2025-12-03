@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  nexus-core:
+    build: .
+    container_name: meganx-nexus-core
+    volumes:
+      - ./nexus_memory:/app/nexus_memory
+      - ./.env:/app/.env
+    stdin_open: true # Keep stdin open for MCP communication
+    tty: true        # Allocate a pseudo-TTY
+    command: python src/meganx_mcp_server.py
