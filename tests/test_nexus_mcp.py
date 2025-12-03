@@ -3,9 +3,10 @@ from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
 
 # Define the server parameters
+# Define the server parameters
 server_params = StdioServerParameters(
     command="python",
-    args=["C:/Users/LOGAN/Desktop/MEGANX_V9/NEXUS_CORE/backend/meganx_mcp_server.py"],
+    args=["src/meganx_mcp_server.py"],
     env=None
 )
 

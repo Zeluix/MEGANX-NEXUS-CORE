@@ -11,20 +11,31 @@ This repository contains the **MCP Server** implementation that powers MEGANX's 
 - **Remember:** Store and recall semantic memories using **ChromaDB**.
 - **Act:** Execute standardized tool calls compatible with any MCP-compliant client (Claude Desktop, Zed, etc.).
 
+## 📂 Project Structure
+
+```
+MEGANX-NEXUS-CORE/
+├── src/           # Core MCP Server implementation
+├── tests/         # Verification suite
+├── docs/          # Architecture documentation
+├── examples/      # Usage scripts and demos
+├── logs/          # Example outputs
+└── requirements.txt
+```
+
 ## 🏗️ Architecture
 
-The system is built on a modular architecture:
+See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for a deep dive into the system design.
 
-- **`meganx_mcp_server.py`**: The core MCP server that exposes tools.
-- **`setup_nexus_db.py`**: Database initialization script for Supabase (User Management).
-- **`test_nexus_mcp.py`**: Verification suite for tool functionality.
+The system is built on a modular architecture:
+- **`src/meganx_mcp_server.py`**: The core MCP server that exposes tools.
+- **`src/setup_nexus_db.py`**: Database initialization script.
 
 ## 🚀 Features
 
 - **Standardized Tooling:** Uses the official `mcp` Python SDK.
 - **Browser Automation:** Headless/Headed browsing via Playwright.
-- **Vector Memory:** Local semantic search using ChromaDB (all-MiniLM-L6-v2).
-- **Scalable Database:** Supabase integration for user and session management.
+- **Vector Memory:** Local semantic search using ChromaDB.
 
 ## 🛠️ Installation
 
@@ -46,16 +57,20 @@ The system is built on a modular architecture:
 
 ## 🧪 Usage
 
-To run the MCP Server locally:
-
+### Run the Server
 ```bash
-python backend/meganx_mcp_server.py
+python src/meganx_mcp_server.py
 ```
 
-To run the test suite:
-
+### Run the Demo
+See [examples/demo_navigation.py](examples/demo_navigation.py) for a complete example.
 ```bash
-python backend/test_nexus_mcp.py
+python examples/demo_navigation.py
+```
+
+### Run Tests
+```bash
+python tests/test_nexus_mcp.py
 ```
 
 ## 📜 License
