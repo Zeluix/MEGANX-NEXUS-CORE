@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# MEGANX Specific (CRITICAL)
+.gemini/
+nexus_memory/
+MEGANX_SOUL_STATE.md
+*.log
