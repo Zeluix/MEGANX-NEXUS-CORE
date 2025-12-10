@@ -3,6 +3,7 @@ version: '3.8'
 services:
   nexus-core:
     build: .
+    platform: linux/amd64  # For ARM/M1 compatibility
     container_name: meganx-nexus-core
     volumes:
       - ./nexus_memory:/app/nexus_memory

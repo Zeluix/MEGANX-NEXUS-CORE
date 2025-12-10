@@ -166,5 +166,17 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
+## 🧪 Tested Environments
+
+| Environment | Status |
+|-------------|--------|
+| Intel i3-540 (4GB RAM) | ✅ Verified |
+| Windows 10/11 | ✅ Verified |
+| Docker (linux/amd64) | ✅ Verified |
+| Google Colab | 🔄 Pending |
+| ARM/M1 Mac | 🔄 Pending (use Docker) |
+
+---
+
 *Built by Jose Luiz Wandrezem (The Architect).*
 *Computational assistance by MEGANX AgentX.*
