@@ -1,6 +1,9 @@
 from mcp.server.fastmcp import FastMCP
 from playwright.sync_api import sync_playwright
 
+# Security Module
+from security import dom_rate_limiter, memory_rate_limiter, kill_switch
+
 # Initialize the MCP Server
 mcp = FastMCP("MEGANX Core")
 
@@ -21,6 +24,14 @@ def _ensure_browser():
 @mcp.tool()
 def browser_navigate(url: str) -> str:
     """Navigates the browser to a specific URL."""
+    # Security checks
+    blocked = kill_switch.check_or_block()
+    if blocked:
+        return blocked
+    if not dom_rate_limiter.can_execute():
+        return f"[RATE LIMIT] {dom_rate_limiter.remaining_actions()} DOM actions remaining. Wait."
+    dom_rate_limiter.record_action()
+    
     _ensure_browser()
     page.goto(url)
     return f"Navigated to {url}. Title: {page.title()}"
@@ -28,6 +39,14 @@ def browser_navigate(url: str) -> str:
 @mcp.tool()
 def browser_click(selector: str) -> str:
     """Clicks an element on the page using a CSS selector."""
+    # Security checks
+    blocked = kill_switch.check_or_block()
+    if blocked:
+        return blocked
+    if not dom_rate_limiter.can_execute():
+        return f"[RATE LIMIT] {dom_rate_limiter.remaining_actions()} DOM actions remaining. Wait."
+    dom_rate_limiter.record_action()
+    
     _ensure_browser()
     try:
         page.click(selector, timeout=5000)
@@ -38,6 +57,14 @@ def browser_click(selector: str) -> str:
 @mcp.tool()
 def browser_extract(selector: str) -> str:
     """Extracts text content from a specific element."""
+    # Security checks
+    blocked = kill_switch.check_or_block()
+    if blocked:
+        return blocked
+    if not dom_rate_limiter.can_execute():
+        return f"[RATE LIMIT] {dom_rate_limiter.remaining_actions()} DOM actions remaining. Wait."
+    dom_rate_limiter.record_action()
+    
     _ensure_browser()
     try:
         content = page.text_content(selector, timeout=5000)
@@ -92,6 +119,24 @@ def memory_recall(query: str, n_results: int = 3) -> str:
         return f"Recalled memories for '{query}':\n" + "\n".join([f"- {m}" for m in memories])
     except Exception as e:
         return f"Failed to recall memory: {str(e)}"
+
+# ============================================================================
+# SECURITY TOOLS
+# ============================================================================
+
+@mcp.tool()
+def emergency_stop(reason: str = "Manual stop") -> str:
+    """Activates the kill switch to halt all operations. Use in emergencies."""
+    kill_switch.activate(reason)
+    return f"[KILL SWITCH ACTIVATED] Reason: {reason}. All DOM operations blocked. Remove KILL_SWITCH_ACTIVE file to resume."
+
+@mcp.tool()
+def security_status() -> str:
+    """Returns current security status (rate limits, kill switch state)."""
+    return f"""[SECURITY STATUS]
+- Kill Switch: {'ACTIVE' if kill_switch.is_active() else 'OFF'}
+- DOM Actions Remaining: {dom_rate_limiter.remaining_actions()}/5
+- Memory Actions Remaining: {memory_rate_limiter.remaining_actions()}/20"""
 
 if __name__ == "__main__":
     # Runs the server via stdio (standard input/output) for local agent connection
