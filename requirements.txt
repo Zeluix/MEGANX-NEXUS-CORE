@@ -1,8 +1,22 @@
-fastapi
-uvicorn
-python-multipart
-supabase
-python-dotenv
-supabase
-mcp
-httpx
+# MEGANX NEXUS CORE - Dependencies
+# Python 3.10+ required
+
+# Core MCP Framework
+mcp>=0.1.0
+
+# Browser Automation
+playwright>=1.40.0
+
+# Vector Memory (Semantic Search)
+chromadb>=0.4.0
+
+# HTTP Client
+httpx>=0.25.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Optional: FastAPI for future REST API
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6

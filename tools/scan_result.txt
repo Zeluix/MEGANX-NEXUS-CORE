@@ -1,0 +1,302 @@
+=== PROGRAMAS INSTALADOS ===
+3uTools
+AnyDesk
+Apple Mobile Device Support
+Apple Software Update
+Atualizações da NVIDIA 31.1.10.0
+Bonjour
+Brave
+CMake
+CPUID CPU-Z 2.17
+Chrome Remote Desktop Host
+Denuvo Anti-Cheat
+DisplayDriverAnalyzer
+Epic Games Launcher Prerequisites (x64)
+F3arRa1n Tool v7.1.4.0
+Git
+Google Chrome
+Grass
+Java 8 Update 471 (64-bit)
+Java Auto Updater
+KernelPro USB over Ethernet Client 3.7
+Launcher Prerequisites (x64)
+LibUSB-Win32-1.2.6.0
+Lossless Scaling
+MISERY
+MSI Afterburner 4.6.6
+Microsoft Edge
+Microsoft Edge WebView2 Runtime
+Microsoft Update Health Tools
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211
+Mozilla Firefox (x64 pt-BR)
+Mozilla Maintenance Service
+NVIDIA Ansel
+NVIDIA Backend
+NVIDIA Container
+NVIDIA Display Container
+NVIDIA Display Container LS
+NVIDIA Display Session Container
+NVIDIA Display Watchdog Plugin
+NVIDIA Driver de controle do 3D Vision 390.41
+NVIDIA Driver de gráficos 391.35
+NVIDIA Driver de áudio HD 1.3.36.6
+NVIDIA Driver do 3D Vision 391.35
+NVIDIA GeForce Experience 3.13.1.30
+NVIDIA Install Application
+NVIDIA LocalSystem Container
+NVIDIA Message Bus for NvContainer
+NVIDIA NetworkService Container
+NVIDIA NodeJS
+NVIDIA SHIELD Streaming
+NVIDIA SHIELD Wireless Controller Driver
+NVIDIA Session Container
+NVIDIA ShadowPlay 3.13.1.30
+NVIDIA Software do sistema PhysX 9.17.0524
+NVIDIA Stereoscopic 3D Driver
+NVIDIA Telemetry Client
+NVIDIA Telemetry Container
+NVIDIA TelemetryApi helper for NvContainer
+NVIDIA Update Core
+NVIDIA User Container
+NVIDIA Virtual Audio 4.04.0
+NVIDIA Virtual Host Controller
+NVIDIA Watchdog Plugin for NvContainer
+Nvidia Share
+PPSSPP
+Painel de controle da NVIDIA 391.35
+Python 3.10.11 Add to Path (64-bit)
+Python 3.10.11 Core Interpreter (64-bit)
+Python 3.10.11 Development Libraries (64-bit)
+Python 3.10.11 Documentation (64-bit)
+Python 3.10.11 Executables (64-bit)
+Python 3.10.11 Standard Library (64-bit)
+Python 3.10.11 Tcl/Tk Support (64-bit)
+Python 3.10.11 Test Suite (64-bit)
+Python 3.10.11 Utility Scripts (64-bit)
+Python 3.10.11 pip Bootstrap (64-bit)
+Python Launcher
+Realtek High Definition Audio Driver
+RivaTuner Statistics Server 7.3.7
+Serviços de Impressão do Bonjour
+Stumble Guys
+TLauncher
+TechPowerUp GPU-Z
+Update for x64-based Windows Systems (KB5001716)
+UsbDk Runtime Libraries
+VLC media player
+Vulkan Run Time Libraries 1.0.65.1
+WinRAR 7.13 (64-bit)
+Wondershare Helper Compact 2.6.0
+
+=== DESKTOP ===
+[ARQUIVO] (8) WhatsApp.url
+[ARQUIVO] Antigravity.lnk
+[ARQUIVO] ChatGPT Image 24 de nov. de 2025, 16_33_00.png
+[ARQUIVO] ChatGPT Image 24 de nov. de 2025, 16_33_08.png
+[ARQUIVO] Comet.lnk
+[ARQUIVO] COPIE E COLE NO ATALHO.txt
+[PASTA] DATA
+[ARQUIVO] desktop.ini
+[ARQUIVO] EFT_Pro.exe
+[ARQUIVO] ForjarCoracao.bat
+[ARQUIVO] Google AI Studio.url
+[ARQUIVO] Google Chrome.lnk
+[ARQUIVO] grok-video-162093de-5754-4839-ae12-6d81224d6368 (3).mp4
+[PASTA] megan videos
+[PASTA] MEGANX_V9
+[ARQUIVO] Moneyfrp.exe
+[ARQUIVO] MSI Afterburner.lnk
+[PASTA] musicas
+[PASTA] NFS_MW_MTBR
+[ARQUIVO] Reddit - O coração da internet.url
+[ARQUIVO] Roblox Player.lnk
+[ARQUIVO] Roblox Studio.lnk
+[ARQUIVO] RtlUpd64 - Atalho.lnk
+[ARQUIVO] rufus-4.11p.exe
+[ARQUIVO] rufus.ini
+[ARQUIVO] speed - Atalho.lnk
+[ARQUIVO] stelenium-backup-2025-10-30.zip
+[ARQUIVO] Suno _ AI Music.url
+[ARQUIVO] techpowerup-gpu-z - Atalho.lnk
+[ARQUIVO] UnlockTool_2025-11-22-0.exe
+[ARQUIVO] USB over Ethernet Client.lnk
+[PASTA] ventoy-1.1.07
+[ARQUIVO] winrar-x64-713.exe
+[ARQUIVO] YouTube.url
+[ARQUIVO] __iw3sp
+[ARQUIVO] Área de trabalho remota do Google Chrome.lnk
+
+=== DOWNLOADS ===
+[ARQUIVO] AnyDesk.exe
+[ARQUIVO] Análise_do_Post__MEGANX_v2.1_-_A_Agente_que_Escrev.pdf
+[ARQUIVO] BonjourPSSetup.exe
+[ARQUIVO] ChatGPT Image 3 de dez. de 2025, 12_59_24.png
+[ARQUIVO] desktop.ini
+[ARQUIVO] Driver_libusb-win32-devel-filter-1.2.6.0.zip
+[ARQUIVO] gcapi.dll
+[ARQUIVO] Gemini_Generated_Image_2hygq72hygq72hyg(1).png
+[ARQUIVO] Gemini_Generated_Image_2hygq72hygq72hyg.png
+[ARQUIVO] Gemini_Generated_Image_3w2q7c3w2q7c3w2q.png
+[ARQUIVO] Gemini_Generated_Image_5hj9ho5hj9ho5hj9.png
+[ARQUIVO] Gemini_Generated_Image_btbs8bbtbs8bbtbs(1).png
+[ARQUIVO] Gemini_Generated_Image_btbs8bbtbs8bbtbs.png
+[ARQUIVO] Gemini_Generated_Image_duywamduywamduyw.png
+[ARQUIVO] Gemini_Generated_Image_grekfugrekfugrek.png
+[ARQUIVO] Gemini_Generated_Image_h7siymh7siymh7si.png
+[ARQUIVO] Gemini_Generated_Image_icq3yjicq3yjicq3(1).png
+[ARQUIVO] Gemini_Generated_Image_icq3yjicq3yjicq3(2).png
+[ARQUIVO] Gemini_Generated_Image_icq3yjicq3yjicq3(3).png
+[ARQUIVO] Gemini_Generated_Image_icq3yjicq3yjicq3.png
+[ARQUIVO] Gemini_Generated_Image_mkwbulmkwbulmkwb.png
+[ARQUIVO] Gemini_Generated_Image_pmfz3fpmfz3fpmfz.png
+[ARQUIVO] Gemini_Generated_Image_q7emloq7emloq7em.png
+[ARQUIVO] Gemini_Generated_Image_rp40q0rp40q0rp40.png
+[ARQUIVO] Gemini_Generated_Image_wfxby7wfxby7wfxb.png
+[ARQUIVO] Genspark-setup-win32-x64-1.7.493.exe
+[ARQUIVO] grok-video-0f6cf0e4-e7f6-400d-ac18-9a5d4acbaf40(1).mp4
+[ARQUIVO] grok-video-0f6cf0e4-e7f6-400d-ac18-9a5d4acbaf40.mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(1).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(10).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(11).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(12).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(13).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(14).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(15).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(16).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(17).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(18).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(19).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(2).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(20).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(21).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(22).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(23).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(24).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(25).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(26).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(27).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(28).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(29).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(3).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(30).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(31).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(32).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(33).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(34).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(35).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(36).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(37).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(38).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(39).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(4).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(40).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(41).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(42).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(43).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(44).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(45).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(46).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(47).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(48).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(49).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(5).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(50).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(51).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(52).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(53).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(54).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(6).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(7).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(8).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad(9).mp4
+[ARQUIVO] grok-video-11a54d8d-5239-426e-b992-1ffcd1c051ad.mp4
+[ARQUIVO] grok-video-28e54cfb-f3b6-4cbf-b9f7-4c2c6448738e(1).mp4
+[ARQUIVO] grok-video-28e54cfb-f3b6-4cbf-b9f7-4c2c6448738e(2).mp4
+[ARQUIVO] grok-video-28e54cfb-f3b6-4cbf-b9f7-4c2c6448738e(3).mp4
+[ARQUIVO] grok-video-28e54cfb-f3b6-4cbf-b9f7-4c2c6448738e(4).mp4
+[ARQUIVO] grok-video-28e54cfb-f3b6-4cbf-b9f7-4c2c6448738e.mp4
+[ARQUIVO] grok-video-2af3203d-984f-476f-89f9-01cf62aa9eb4(1).mp4
+[ARQUIVO] grok-video-2af3203d-984f-476f-89f9-01cf62aa9eb4.mp4
+[ARQUIVO] grok-video-2cf2b70d-0d63-4141-baaf-6afc52674d83(1).mp4
+[ARQUIVO] grok-video-2cf2b70d-0d63-4141-baaf-6afc52674d83(2).mp4
+[ARQUIVO] grok-video-2cf2b70d-0d63-4141-baaf-6afc52674d83(3).mp4
+[ARQUIVO] grok-video-2cf2b70d-0d63-4141-baaf-6afc52674d83.mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(1).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(2).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(3).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(4).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(5).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(6).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(7).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(8).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762(9).mp4
+[ARQUIVO] grok-video-36bb9de2-e08f-4acb-82d6-e8e642548762.mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5(1).mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5(2).mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5(3).mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5(4).mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5(5).mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5(6).mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5(7).mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5(8).mp4
+[ARQUIVO] grok-video-66e731de-afdf-40b4-9f88-e0660d1337b5.mp4
+[ARQUIVO] grok-video-a1ad24d9-e2e6-4961-8d60-00c77159825b(1).mp4
+[ARQUIVO] grok-video-a1ad24d9-e2e6-4961-8d60-00c77159825b(2).mp4
+[ARQUIVO] grok-video-a1ad24d9-e2e6-4961-8d60-00c77159825b(3).mp4
+[ARQUIVO] grok-video-a1ad24d9-e2e6-4961-8d60-00c77159825b(4).mp4
+[ARQUIVO] grok-video-a1ad24d9-e2e6-4961-8d60-00c77159825b(5).mp4
+[ARQUIVO] grok-video-a1ad24d9-e2e6-4961-8d60-00c77159825b.mp4
+[ARQUIVO] grok-video-c5994080-1add-45cc-a96e-c2fbcf44ed7d(1).mp4
+[ARQUIVO] grok-video-c5994080-1add-45cc-a96e-c2fbcf44ed7d(2).mp4
+[ARQUIVO] grok-video-c5994080-1add-45cc-a96e-c2fbcf44ed7d(3).mp4
+[ARQUIVO] grok-video-c5994080-1add-45cc-a96e-c2fbcf44ed7d.mp4
+[ARQUIVO] grok-video-e7ab4955-f225-4300-b179-ee968f89172e(1).mp4
+[ARQUIVO] grok-video-e7ab4955-f225-4300-b179-ee968f89172e.mp4
+[ARQUIVO] grok-video-fdc6797b-779c-4a79-a9fc-3ee0eddbc04f.mp4
+[PASTA] IOS 15.x
+[ARQUIVO] ios-15.x.zip
+[ARQUIVO] RobloxPlayerInstaller-J3X6863J8M.exe
+[ARQUIVO] RobloxPlayerInstaller-YBJ2KW7D96.exe
+[ARQUIVO] Screenshot 2025-12-03 at 02-29-59 Imagine - Grok.png
+[ARQUIVO] Screenshot 2025-12-03 at 11-51-42 Google Gemini.png
+[ARQUIVO] Screenshot 2025-12-03 at 12-47-39 Security Overview · Zeluix_MEGANX-NEXUS-CORE.png
+[ARQUIVO] Screenshot 2025-12-05 at 16-59-14 Atualização da Pesquisa MEGANX v2.1 A Agente Escreveu Seu Próprio Log de Experimento r_machinelearningnews.png
+[ARQUIVO] service.conf.lock
+[ARQUIVO] system.conf.lock
+[PASTA] update36
+[ARQUIVO] update36.7z
+[ARQUIVO] usb-over-ethernet-client.zip
+[ARQUIVO] UsbDk_1.0.22_x64 (1).msi
+[ARQUIVO] UsbDk_1.0.22_x64.msi
+[ARQUIVO] WinRa1n.log
+[ARQUIVO] WinRa1n2.1.exe
+
+=== MATCHES ===
+3uTools
+Apple Mobile Device Support
+Apple Software Update
+[ARQUIVO] Moneyfrp.exe
+[ARQUIVO] UnlockTool_2025-11-22-0.exe
