@@ -4,6 +4,9 @@ from playwright.sync_api import sync_playwright
 # Security Module
 from security import dom_rate_limiter, memory_rate_limiter, kill_switch
 
+# Memory Tier System
+from memory_tiers import memory_tiers
+
 # Initialize the MCP Server
 mcp = FastMCP("MEGANX Core")
 
@@ -137,6 +140,35 @@ def security_status() -> str:
 - Kill Switch: {'ACTIVE' if kill_switch.is_active() else 'OFF'}
 - DOM Actions Remaining: {dom_rate_limiter.remaining_actions()}/5
 - Memory Actions Remaining: {memory_rate_limiter.remaining_actions()}/20"""
+
+# ============================================================================
+# MEMORY TIER TOOLS
+# ============================================================================
+
+@mcp.tool()
+def tier_store_hot(key: str, content: str) -> str:
+    """Store content in HOT tier (active, frequently accessed memory)."""
+    return memory_tiers.store_hot(key, content)
+
+@mcp.tool()
+def tier_demote_to_warm(key: str, summary: str) -> str:
+    """Move content from HOT to WARM tier with a summary (compression)."""
+    return memory_tiers.demote_to_warm(key, summary)
+
+@mcp.tool()
+def tier_archive_to_cold(key: str) -> str:
+    """Archive content from WARM to COLD tier (permanent storage)."""
+    return memory_tiers.archive_to_cold(key)
+
+@mcp.tool()
+def tier_stats() -> str:
+    """Get memory tier statistics."""
+    stats = memory_tiers.get_stats()
+    return f"""[MEMORY TIER STATS]
+- HOT (Active): {stats['hot_entries']} entries
+- WARM (Compressed): {stats['warm_entries']} entries
+- COLD (Archived): {stats['cold_entries']} entries
+- TOTAL: {stats['total']} entries"""
 
 if __name__ == "__main__":
     # Runs the server via stdio (standard input/output) for local agent connection
